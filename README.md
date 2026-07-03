@@ -31,30 +31,6 @@ EN
 
 ---
 
-## Áreas de interesse
-
-- Desenvolvimento de sistemas;
-- Tecnologia aplicada à resolução de problemas;
-- Automação de processos;
-- Organização de dados e informações;
-- Interfaces digitais;
-- Projetos web e aplicações modernas;
-- Boas práticas com Git e GitHub.
-
----
-
-## Projetos em destaque
-
-### App Diacolindos
-
-Sistema desenvolvido para auxiliar na organização de escalas, integrantes, eventos e participações.
-
-### VidFlow
-
-Projeto desenvolvido com Vite para praticar estruturação de aplicações modernas e organização de código.
-
----
-
 ## Estatísticas do GitHub
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gaaabrielsantos&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=c9c9c9&icon_color=ffffff&border_color=303030)
