@@ -1,19 +1,7 @@
-# Olá, muito prazer! Eu sou o Gabriel Santos.
+# Hello, I'm Gabriel Santos.
 
-PT-BR
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas;
-- 💻 Em constante evolução na área da tecnologia;
-- 🚀 Atualmente estudando programação, sistemas, Git, GitHub e desenvolvimento de soluções digitais;
-- 🧠 Interessado em aprender novas tecnologias e transformar ideias em projetos reais;
-- 💡 Buscando crescer profissionalmente na área de TI.
-
-EN
-- 👋 Hello, my name is Gabriel Santos;
-- 🎓 Undergraduate student in Systems Analysis and Development;
-- 💻 Constantly improving in the technology field;
-- 🚀 Currently studying programming, systems, Git, GitHub and digital solutions development;
-- 🧠 Interested in learning new technologies and turning ideas into real projects;
-- 💡 Looking to grow professionally in the IT field.
+I'm a Systems Analysis and Development student, currently building my path in the technology field.
+I enjoy learning new technologies, understanding how systems work, and creating practical solutions through code.
 
 ---
 
@@ -28,14 +16,6 @@ EN
 ![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-111111?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
-
-## Estatísticas do GitHub
-
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gaaabrielsantos&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=c9c9c9&icon_color=ffffff&border_color=303030)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaaabrielsantos&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=c9c9c9&border_color=303030)
 
 ---
 
