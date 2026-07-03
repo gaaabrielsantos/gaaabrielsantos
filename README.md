@@ -5,8 +5,6 @@ I enjoy learning new technologies, understanding how systems work, and creating 
 
 ---
 
-## Technologies
-
 <div align="center">
   <img alt="HTML5" title="HTML5" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img alt="CSS3" title="CSS3" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -20,8 +18,6 @@ I enjoy learning new technologies, understanding how systems work, and creating 
 </div>
 
 ---
-
-## Contact
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gaaabrielsantos/" target="_blank">
