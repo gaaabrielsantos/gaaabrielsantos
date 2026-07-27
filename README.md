@@ -36,6 +36,19 @@ I enjoy learning new technologies, understanding how systems work, and creating 
 
 ---
 
+## Most Used Technologies
+
+<div align="center">
+
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaaabrielsantos&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=c9c9c9&border_color=303030"
+  />
+
+</div>
+
+---
+
 ## Contact
 
 <div align="center">
