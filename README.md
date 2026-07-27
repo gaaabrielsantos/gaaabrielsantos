@@ -1,4 +1,4 @@
-# Hello, I'm Gabriel Santos.
+# Hello, World.
 
 I'm a Systems Analysis and Development student, currently building my path in the technology field.  
 I enjoy learning new technologies, understanding how systems work, and creating practical solutions through code.
