@@ -36,17 +36,14 @@ I enjoy learning new technologies, understanding how systems work, and creating 
 
 ---
 
-## Most Used Languages
+## Contribution Snake
 
 <div align="center">
 
-  <img 
-    height="180em"
-    alt="Most used languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaaabrielsantos&layout=compact&theme=github_dark&hide_border=true"
-  />
+<img src="https://raw.githubusercontent.com/letxiz/letxiz/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 
 </div>
+
 ---
 
 ## Contact
